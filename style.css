@@ -1,0 +1,33 @@
+body{
+    background-color: #789461;
+}
+
+.main{
+    /* background-color: #747d8c; */
+    margin-left: 120px;
+    margin-top: 40px;
+    width: 1100px;
+    height: 550px;
+    /* border: 1px solid black; */
+    display: flex;
+    flex-wrap:wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.div2{
+    background-color:#163020;
+    /* border: 1px solid black; */
+    border-radius: 5px;
+    height: 180px;
+    width: 320px; 
+    text-align: center;
+    cursor: pointer;
+}
+.div2:hover{
+    background-color:#304D30;
+}
+a{
+    color: black;
+    text-decoration: none;
+}

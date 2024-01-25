@@ -1,0 +1,123 @@
+.first{
+    color: white;
+    background-color: black;
+    width: 265px;
+    height: 35px;
+    position: absolute;
+    top: 3px;
+    left: 545px;
+    border-radius: 4px;
+    text-align: center;
+    padding-top: 8px;
+    font-size:1.2em;
+}
+.sound{
+    background-color: white;
+    position: absolute;  
+    top: 3px;
+    left: 1220px;
+    height: 30px;
+    width: 120px; 
+    font-size: 1.2em;
+    font-weight: 600;
+    margin-top: 3px;
+}
+.back{
+    background-color: white;
+    position: absolute;
+    top: 6px;
+    left:30px ;
+    height:20px;
+    width: 80px;
+    font-size:1.2em ;
+    font-weight: 600;
+}
+a{
+    color: black;
+    text-decoration: none;
+
+}
+
+
+
+.main{
+    /* border: 2px solid black; */
+    height: 540px;
+    width: 1260px;
+    /* background-color: cornflowerblue; */
+    display: flex;
+    flex-wrap:wrap;
+    flex-direction: row;
+    margin-top: 50px;
+    margin-left: 40px;
+    
+}
+div{
+    
+   background-color: teal;
+    /* border: 1px solid black; */
+    height: 135px;
+    width: 252px; 
+
+} 
+
+#BEEKEPER{
+    background-color: #f6e58d;
+}
+#Spiced{
+    background-color: #ffbe76;
+}
+#PINK{
+    background-color: #ff7979;
+}
+#JUNE{
+    background-color: #badc58;
+}
+#COASTAL{
+    background-color: #dff9fb;
+}
+#TURBO{
+    background-color:#f9ca24 ;
+}
+#QUINCE{
+    background-color:#f0932b ;
+}
+#CARMINE{
+    background-color:#eb4d4b ;
+}
+#PURE{
+    background-color:#6ab04c ;
+}
+#HINT{
+    background-color: #c7ecee;
+}
+#BLUE{
+    background-color: #7ed6df;
+}
+#HELIOTROPE{
+    background-color:#e056fd ;
+}
+#EXODUS{
+    background-color:#686de0 ;
+}
+#DEEP{
+    background-color:#30336b;
+}
+#SOARING{
+    background-color: #95afc0;
+}
+#GREENLAND{
+    background-color:#22a6b3 ;
+}
+#STEEL{
+    background-color:#be2edd ;
+}
+#BLURPLE{
+    background-color:#4834d4 ;
+} 
+#DEEPCOVE{
+    background-color: #130f40;
+}
+#WIZARD{
+    background-color:#535c68 ;
+}
